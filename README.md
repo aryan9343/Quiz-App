@@ -1,1 +1,2 @@
 # Quiz-App
+The quiz app website is a dynamic platform built with HTML, CSS, and JavaScript. It presents users with questions and multiple-choice answers, allowing them to test their knowledge on various topics. With engaging design and interactive features, users can navigate through questions, select answers, and receive instant feedback on their performance. This combination of technologies offers a seamless user experience, making learning enjoyable and interactive.
